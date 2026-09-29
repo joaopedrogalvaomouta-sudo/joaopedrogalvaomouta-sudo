@@ -1,41 +1,7 @@
-<div align="center">
+# Sobre mim
 
-# Olá! Seja bem-vindo ao meu perfil 👋
+Estou no início dos meus estudos em programação, com foco em lógica de programação. Também estou aprendendo a usar o GitHub e pretendo reunir aqui meus exercícios e projetos conforme avançar.
 
-### 🌱 Começando na programação, um passo de cada vez.
+Meu objetivo é conseguir minha primeira oportunidade na área e construir uma carreira em desenvolvimento de software. Sei que tenho muito a aprender e quero me preparar para assumir responsabilidades e contribuir com a equipe da qual fizer parte.
 
-**Iniciante no GitHub · Estudante de lógica de programação**
-
-</div>
-
----
-
-## 💻 Sobre mim
-
-Estou dando meus primeiros passos no GitHub e no mundo da programação. Atualmente, estou estudando **lógica de programação** para construir uma boa base e aprender a transformar ideias em soluções.
-
-Este perfil é o espaço onde quero registrar meus estudos, compartilhar exercícios e acompanhar minha evolução.
-
-## 📚 Meu foco agora
-
-- 🧠 Desenvolver meu raciocínio lógico.
-- 🧩 Aprender a dividir problemas em etapas menores.
-- 🌱 Entender os fundamentos da programação.
-- 🛠️ Me familiarizar com o GitHub e a organização dos meus estudos.
-
-## 🎯 Meus próximos passos
-
-- [ ] Praticar lógica de programação com exercícios.
-- [ ] Publicar meus primeiros estudos aqui.
-- [ ] Criar pequenos projetos para colocar o aprendizado em prática.
-- [ ] Acompanhar minha evolução e continuar aprendendo.
-
----
-
-<div align="center">
-
-**Cada exercício é um passo à frente. 🚀**
-
-Obrigado pela visita!
-
-</div>
+Neste momento, minha prioridade é entender bem os fundamentos e colocar o que estudo em prática. Busco aprender com pessoas mais experientes, receber feedback e melhorar meu trabalho. Quero continuar estudando ao longo da carreira e me preparar para oportunidades cada vez mais desafiadoras.
