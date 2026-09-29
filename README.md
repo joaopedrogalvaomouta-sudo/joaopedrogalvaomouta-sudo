@@ -1,17 +1,21 @@
 # Apresentação
 
-**Estudante de programação | Em busca da primeira oportunidade na área**
+**TI na Transsegur | Técnico em Eletrônica | Estudante de programação**
 
-Estou no início dos meus estudos em programação e aprendendo a usar o GitHub. Quero construir uma carreira em desenvolvimento de software e usar este espaço para registrar meus estudos e projetos conforme avançar.
+Atualmente, trabalho na área de TI da **Transsegur**, uma empresa onde seriedade, sigilo e conhecimento técnico são fundamentais. Tenho formação técnica em Eletrônica e estou ampliando meus conhecimentos em programação para buscar novas oportunidades e crescer profissionalmente.
+
+## Formação e conhecimentos
+
+- Técnico em Eletrônica.
+- Certificado em Tecnologias Fotovoltaicas, com aulas de elétrica incluídas na formação.
+- Inglês intermediário.
 
 ## Estudos
 
-Atualmente, meu foco é **lógica de programação**. Estou me dedicando a entender os fundamentos e a colocar o que aprendo em prática, antes de avançar para projetos mais complexos.
+Estou no início dos meus estudos em programação, com foco em **lógica de programação**. Também estou aprendendo a usar o GitHub e pretendo reunir aqui meus exercícios e projetos conforme avançar. Minha prioridade é entender bem os fundamentos e colocar o que aprendo em prática.
 
 ## Objetivo profissional
 
-Busco minha primeira oportunidade na área, onde possa aprender com a equipe e contribuir com o que sei. Quero ganhar experiência, assumir novas responsabilidades e me preparar para oportunidades cada vez mais desafiadoras.
+Quero seguir crescendo na área de tecnologia e me preparar para minha primeira oportunidade em desenvolvimento de software. Busco ampliar meus conhecimentos, assumir novas responsabilidades e contribuir com a experiência que já tenho em TI.
 
-## Aprendizado
-
-Sei que ainda tenho muito a aprender. Valorizo orientações e feedback de pessoas mais experientes e quero manter o estudo como parte da minha rotina, tanto agora quanto ao longo da carreira.
+Valorizo a troca de conhecimento e o feedback de pessoas mais experientes. Quero manter os estudos como parte da minha rotina e me preparar para desafios cada vez maiores ao longo da carreira.
