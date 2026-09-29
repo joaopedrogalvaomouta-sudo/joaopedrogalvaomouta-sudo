@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**joaopedrogalvaomouta-sudo/joaopedrogalvaomouta-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Seja bem-vindo ao meu perfil 👋
 
-Here are some ideas to get you started:
+### 🌱 Começando na programação, um passo de cada vez.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Iniciante no GitHub · Estudante de lógica de programação**
+
+</div>
+
+---
+
+## 💻 Sobre mim
+
+Estou dando meus primeiros passos no GitHub e no mundo da programação. Atualmente, estou estudando **lógica de programação** para construir uma boa base e aprender a transformar ideias em soluções.
+
+Este perfil é o espaço onde quero registrar meus estudos, compartilhar exercícios e acompanhar minha evolução.
+
+## 📚 Meu foco agora
+
+- 🧠 Desenvolver meu raciocínio lógico.
+- 🧩 Aprender a dividir problemas em etapas menores.
+- 🌱 Entender os fundamentos da programação.
+- 🛠️ Me familiarizar com o GitHub e a organização dos meus estudos.
+
+## 🎯 Meus próximos passos
+
+- [ ] Praticar lógica de programação com exercícios.
+- [ ] Publicar meus primeiros estudos aqui.
+- [ ] Criar pequenos projetos para colocar o aprendizado em prática.
+- [ ] Acompanhar minha evolução e continuar aprendendo.
+
+---
+
+<div align="center">
+
+**Cada exercício é um passo à frente. 🚀**
+
+Obrigado pela visita!
+
+</div>
